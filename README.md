@@ -1,4 +1,4 @@
-# Magic-ELF
+# DAWN
 DAWN: Direction-aware Attention Wavelet Network for Image Deraining (ACM MM2023)
 
 [Kui Jiang](https://scholar.google.com/citations?user=AbOLE9QAAAAJ&hl), [Wenxuan Liu](https://scholar.google.com/citations?hl=zh-CN&user=W6rHumMAAAAJ), [Zheng Wang](https://scholar.google.com/citations?user=-WHTbpUAAAAJ&hl=zh-CN), [Xian Zhong](https://dblp.org/pid/87/6023.html), [Junjun Jiang](https://scholar.google.com/citations?user=WNH2_rgAAAAJ&hl=zh-CN) and [Chia-Wen Lin](https://scholar.google.com/citations?user=fXN3dl0AAAAJ&hl=zh-CN)
@@ -59,7 +59,7 @@ Experiments are performed for different image processing tasks including, image 
 Code borrows from [MPRNet](https://github.com/swz30/MPRNet) by [Syed Waqas Zamir](https://scholar.google.es/citations?user=WNGPkVQAAAAJ&hl=en). Thanks for sharing !
 
 ## Citation
-If you use Magic ELF, please consider citing:
+If you use DAWN, please consider citing:
 
 @inproceedings{jiang2023dawn,
   title={Dawn: Direction-aware attention wavelet network for image deraining},
